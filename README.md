@@ -2,5 +2,6 @@
 I will put my small js &amp; jq projects in here
 
 Project - 1) Copy the Clipboard. 
-https://github.com/GktgYildiz/js_jquery-Small_Projects/assets/102765970/ce8e510b-643a-4a65-946b-2fe4e2156b8e
+![clipboard](https://github.com/GktgYildiz/js_jquery-Small_Projects/assets/102765970/a812c33f-ccf9-408d-9744-30b4f8e4b050)
+
 
